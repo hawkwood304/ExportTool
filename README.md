@@ -4,8 +4,8 @@ In this project I use python 3. So if you want to check out this you need to use
 How to use:
 1. Copy the file to you current maya script folder
 2. Open script editor in Maya, chose Python language
-3. Copy and pasted:
-import ExportTool
-ExportTool.MainWindow().show()
+3. Copy and pasted:\
+import ExportTool\
+ExportTool.MainWindow().show()\
 4. Hit enter then walla you had it.
 Good luck. I wish this will come handy to you.
