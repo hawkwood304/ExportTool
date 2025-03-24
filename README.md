@@ -1,3 +1,4 @@
+# ExportTool
 This is a customize tool I create for animost studio. It's use to export all object rig and camera to fbx. So the data can be transfer into UE for rendering.
 In this project I use python 3. So if you want to check out this you need to use Maya 2022+ with python 3. And you need to install pyside2 too.
 How to use:
